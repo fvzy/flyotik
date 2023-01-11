@@ -6,6 +6,8 @@ Check the live [demo](https://flyo.cf).
 
 ## Features
 - Save video history
+- Save Video Without Watermark
+- Save Audio
 
 ## Run locally
 
