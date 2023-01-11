@@ -34,7 +34,7 @@ const AppHeader = () => {
           <Title order={2} color='grape'>
             Flyo
           </Title>
-          <Text>Flyo</Text>
+          <Text><a href="https://github.com/wffzy/flyotik">Source Code</a></Text>
           <Space h='lg' />
           <Text>
             A web app that downloads tiktok videos without the annoying tiktok
